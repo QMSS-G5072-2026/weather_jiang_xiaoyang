@@ -1,6 +1,6 @@
 [project]
 name = "weather_xj2341"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python utilities for converting, summarizing, and cleaning weather station temperatures."
 readme = "README.md"
 authors = [{ name = "Xiaoyang Jiang", email = "xj2341@columbia.edu" }]
