@@ -1,4 +1,5 @@
 # weather_xj2341
+[![CI](https://github.com/QMSS-G5072-2026/weather_jiang_xiaoyang/actions/workflows/ci.yml/badge.svg)](https://github.com/QMSS-G5072-2026/weather_jiang_xiaoyang/actions/workflows/ci.yml)
 
 Python utilities for converting, summarizing, and cleaning weather station temperatures.
 
